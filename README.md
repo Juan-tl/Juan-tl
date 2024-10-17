@@ -1,10 +1,27 @@
-# About me
+## 👋 Hola, Juan
 
-**Juan-tl/Juan-tl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Desarrollador apasionado
 
-Here are some ideas to get you started:
+Bienvenido a mi rincón en GitHub. Aquí encontrarás mi perfil actualizado. Siempre estoy buscando aprender y colaborar en nuevas ideas.
 
-- 🔭 I'm currently working on programming.
-- 🌱 I'm currently learning new technologies.
-- 👯 I'm looking to collaborate on new projects.
-- ⚡ Fun fact: Avocados are a fruit.🥑🥑
+### 🎓 Formación  
+
+- Técnico Superior en Automatización y Robótica Industrial.
+- Técnico en Instalaciones eléctricas y electrónica.
+- Master en IA y Big Data.
+  
+### 🛠️ Tecnologías que manejo
+
+- **Lenguajes**: JavaScript, Python, C++, Kotlin.
+- **Industrial**: Tia Portal (Siemens), Robotstudio (ABB), Kawasaki.
+- **Bases de datos**: MySQL.
+- **Herramientas**: Git, Visual Studio Code.
+
+
+### 🌍 Conectemos
+
+¡Me encantaría colaborar o simplemente charlar sobre tecnología! Puedes encontrarme en:
+
+- [LinkedIn]([enlace](https://www.linkedin.com/in/juan-ignacio-tullio-lus-42351a2ab/))
+
+Gracias por visitar mi perfil!
