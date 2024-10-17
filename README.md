@@ -22,6 +22,6 @@ Bienvenido a mi rincón en GitHub. Aquí encontrarás mi perfil actualizado. Sie
 
 ¡Me encantaría colaborar o simplemente charlar sobre tecnología! Puedes encontrarme en:
 
-- [LinkedIn]([enlace](https://www.linkedin.com/in/juan-ignacio-tullio-lus-42351a2ab/))
+- [LinkedIn](https://www.linkedin.com/in/juan-ignacio-tullio-lus-42351a2ab/)
 
 Gracias por visitar mi perfil!
