@@ -6,9 +6,9 @@ Bienvenido a mi rincón en GitHub. Aquí encontrarás mi perfil actualizado. Sie
 
 ### 🎓 Formación  
 
+- Master en IA y Big Data.
 - Técnico Superior en Automatización y Robótica Industrial.
 - Técnico en Instalaciones eléctricas y electrónica.
-- Master en IA y Big Data.
   
 ### 🛠️ Tecnologías que manejo
 
